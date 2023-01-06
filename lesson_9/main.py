@@ -8,7 +8,7 @@ import calc
 import phone_book.book as bk
 # import shutil
 
-TOKEN = '5761290203:AAGeofxSfp_Ixl0APVg9yz1RqAdsrxbz-DE'
+TOKEN = ''
 
 bot = TeleBot(TOKEN)
 
